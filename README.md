@@ -14,6 +14,6 @@ https://aclanthology.org/P19-1228.pdf
 6. Leppek, K., Byeon, G.W., Kladwang, W. et al. Combinatorial optimization of mRNA structure, stability, and translation for RNA-based therapeutics. Nat Commun 13, 1536 (2022). https://doi.org/10.1038/s41467-022-28776-w
 Sato, K., Akiyama, M. & Sakakibara, Y. RNA secondary structure prediction using deep learning with thermodynamic integration. Nat Commun 12, 941 (2021). https://doi.org/10.1038/s41467-021-21194-4
 
-7. Saito Y, Oikawa M, Nakazawa H, Niide T, Kameda T, Tsuda K, Umetsu M. Machine-Learning-Guided Mutagenesis for Directed Evolution of Fluorescent Proteins. ACS Synth Biol. 2018 Sep 21;7(9):2014-2022. doi: 10.1021/acssynbio.8b00155. Epub 2018 Aug 20. PMID: 30103599.
+7. Saito Y, Oikawa M, Nakazawa H, Niide T, Kameda T, Tsuda K, Umetsu M. Machine-Learning-Guided Mutagenesis for Directed Evolution of Fluorescent Proteins. ACS Synth Biol. 2018 Sep 21;7(9):2014-2022. doi: 10.1021/acssynbio.8b00155
 
 8. Goro Terai, Kiyoshi Asai, Improving the prediction accuracy of protein abundance in Escherichia coli using mRNA accessibility, Nucleic Acids Research, Volume 48, Issue 14, 20 August 2020, Page e81, https://doi.org/10.1093/nar/gkaa481
