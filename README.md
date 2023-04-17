@@ -12,3 +12,10 @@ https://aclanthology.org/P19-1228.pdf
 5. Goro Terai, Satoshi Kamegai, Kiyoshi Asai, CDSfold: an algorithm for designing a protein-coding sequence with the most stable secondary structure, Bioinformatics, Volume 32, Issue 6, March 2016, Pages 828–834, https://doi.org/10.1093/bioinformatics/btv678
 
 Sato, K., Akiyama, M. & Sakakibara, Y. RNA secondary structure prediction using deep learning with thermodynamic integration. Nat Commun 12, 941 (2021). https://doi.org/10.1038/s41467-021-21194-4
+
+ACS Synth Biol
+. 2018 Sep 21;7(9):2014-2022. doi: 10.1021/acssynbio.8b00155. Epub 2018 Aug 20.
+Machine-Learning-Guided Mutagenesis for Directed Evolution of Fluorescent Proteins
+Yutaka Saito 1 2, Misaki Oikawa 3, Hikaru Nakazawa 3, Teppei Niide 3, Tomoshi Kameda 1, Koji Tsuda 4 5 6, Mitsuo Umetsu 3 5
+Affiliations expand
+PMID: 30103599 DOI: 10.1021/acssynbio.8b00155
