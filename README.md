@@ -13,9 +13,6 @@ https://aclanthology.org/P19-1228.pdf
 
 Sato, K., Akiyama, M. & Sakakibara, Y. RNA secondary structure prediction using deep learning with thermodynamic integration. Nat Commun 12, 941 (2021). https://doi.org/10.1038/s41467-021-21194-4
 
-ACS Synth Biol
-. 2018 Sep 21;7(9):2014-2022. doi: 10.1021/acssynbio.8b00155. Epub 2018 Aug 20.
-Machine-Learning-Guided Mutagenesis for Directed Evolution of Fluorescent Proteins
-Yutaka Saito 1 2, Misaki Oikawa 3, Hikaru Nakazawa 3, Teppei Niide 3, Tomoshi Kameda 1, Koji Tsuda 4 5 6, Mitsuo Umetsu 3 5
-Affiliations expand
-PMID: 30103599 DOI: 10.1021/acssynbio.8b00155
+Saito Y, Oikawa M, Nakazawa H, Niide T, Kameda T, Tsuda K, Umetsu M. Machine-Learning-Guided Mutagenesis for Directed Evolution of Fluorescent Proteins. ACS Synth Biol. 2018 Sep 21;7(9):2014-2022. doi: 10.1021/acssynbio.8b00155. Epub 2018 Aug 20. PMID: 30103599.
+
+Goro Terai, Kiyoshi Asai, Improving the prediction accuracy of protein abundance in Escherichia coli using mRNA accessibility, Nucleic Acids Research, Volume 48, Issue 14, 20 August 2020, Page e81, https://doi.org/10.1093/nar/gkaa481
