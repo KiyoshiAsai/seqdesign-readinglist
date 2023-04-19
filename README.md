@@ -18,4 +18,4 @@ Sato, K., Akiyama, M. & Sakakibara, Y. RNA secondary structure prediction using 
 
 8. Goro Terai, Kiyoshi Asai, Improving the prediction accuracy of protein abundance in Escherichia coli using mRNA accessibility, Nucleic Acids Research, Volume 48, Issue 14, 20 August 2020, Page e81, https://doi.org/10.1093/nar/gkaa481
 
-9. Haoran Gong, Jianguo Wen, Ruihan Luo, Yuzhou Feng, JingJing Guo, Hongguang Fu, Xiaobo Zhou. Integrated mRNA sequence optimization using deep learning, Brief Bioinform 2023 Jan 19;24(1):bbad001. https://doi.org/10.1093/bib/bbad001.
+~~9. Haoran Gong, Jianguo Wen, Ruihan Luo, Yuzhou Feng, JingJing Guo, Hongguang Fu, Xiaobo Zhou. Integrated mRNA sequence optimization using deep learning, Brief Bioinform 2023 Jan 19;24(1):bbad001. https://doi.org/10.1093/bib/bbad001.~~ # I want to remove this article from the list, because I found it less interesting. Sorry. by Goro Terai
